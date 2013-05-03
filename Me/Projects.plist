@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>software</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Converter</string>
+			<key>icon</key>
+			<string>converter_icon.png</string>
+			<key>appID</key>
+			<string>621204854</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Soaring</string>
+			<key>icon</key>
+			<string>soaring_icon.png</string>
+			<key>appID</key>
+			<string>479542119</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>dotPlurk</string>
+			<key>icon</key>
+			<string>dotplurk_icon.png</string>
+			<key>appID</key>
+			<string>432739186</string>
+		</dict>
+	</array>
+	<key>hardware</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>BLE Car</string>
+			<key>icon</key>
+			<string>blecar_icon.png</string>
+			<key>photos</key>
+			<array>
+				<string>IMG_0251.jpg</string>
+				<string>IMG_0982.jpg</string>
+			</array>
+			<key>description</key>
+			<string>BLE Car is designed to use iDevices to controll car remotely. It&apos;s powered by Arduino with a BLE Chip. The iOS Client used CoreBluetooth to support communication between the car and iDevice.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
